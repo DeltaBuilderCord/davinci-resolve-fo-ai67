@@ -1,4 +1,4 @@
-
+DaVinci Resolve for macOS exclusive Addon: 4K-export & compressor is the best DaVinci Resolve for macOS addon, featuring 4K-export and compressor. Safe, efficient, and optimized
 
 
 
